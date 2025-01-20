@@ -3,6 +3,9 @@
 ### Overview
 The objective of this project was to streamline the data processing workflow for daily survey files received via email, reducing the time spent on manual tasks such as downloading, combining, and cleaning data. The goal was to enhance the accuracy of the analysis, minimize errors, and improve overall efficiency, ultimately delivering timely insights to the US government client and optimizing resource allocation.
 
+### Dashboard
+https://lnkd.in/gjTNY2Vi
+
 ### Skills
 Data Integration (API, Python), Automation (Power Automate, Outlook), Visualization (Power BI, Power BI Services), Data Transformation (Power Query), Storage (Drive), Report Automation.
 
